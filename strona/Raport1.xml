@@ -1,0 +1,31 @@
+<Raport>
+	<Dane_Raportu>
+        Informacje dotyczące raportu
+        
+		<Data> 23.02.2022 </Data>
+		<Godzina> 12:00 </Godzina>
+	</Dane_Raportu>
+	<Temat_Raportu>
+    Spotaknie organizacyjne 
+</Temat_Raportu>
+	<Członkowie_Zespołu>
+    Jędrzej Szyszka
+    Przemysław Florkiewicz 
+    Konrad Porębski
+    Michał Chrzęszczyk
+</Członkowie_Zespołu>
+	<Sprawozdanie_z_spotkania>
+    Na spotkaniu zespołu został omówiony temat oraz rodzaj programu.
+    Po krótkiej dyskusji zespół wybrał tematu aplikacji dotyczącej
+    badania wzorku. Po wybraniu tematu zostały omówione podstawowe
+    funkcjonalości które będą znajdować się w aplikacji. 
+</Sprawozdanie_z_spotkania>
+	<Podsumowanie>
+    Podczas spotkania zespoł wykonał następujące kroki: 
+    - Wybór tematu programu 
+    - Wybór funkcjonalości aplikacji
+</Podsumowanie>
+<Wykonawca_Raportu>
+    Michał Chrzęszczyk
+</Wykonawca_Raportu>
+</Raport>

@@ -1,0 +1,28 @@
+<Raport>
+	<Dane_Raportu>
+        Informacje dotyczące raportu
+        
+		<Data> 1.06.2022 </Data>
+		<Godzina> 18:00 </Godzina>
+	</Dane_Raportu>
+	<Temat_Raportu>
+    Wybór technologii dla aplikacji 
+</Temat_Raportu>
+	<Członkowie_Zespołu>
+    Jędrzej Szyszka
+    Przemysław Florkiewicz 
+    Konrad Porębski
+    Michał Chrzęszczyk
+</Członkowie_Zespołu>
+	<Sprawozdanie_z_spotkania>
+    Na spotkaniu zespołu został omówiony temat wyboru technologii jakie zostaną użyte do utworzenia aplikacji. Po dłuższej rozmowie zespół jednogłośnie doszedł do wniosku o utworzenie aplikacji w języku C# oraz utworzenie jej w środowisku Visual Studio.
+</Sprawozdanie_z_spotkania>
+	<Podsumowanie>
+    Po zakończeniu spotkania zespół poczynił konkretne kroki : 
+    - Wybór języku programistyczne C#
+    - Wybór środowiska programistycznego do efektywnej pracy - Visual Studio
+</Podsumowanie>
+	<Wykonawca_Raportu>
+		Przemysław Florkiewicz
+	</Wykonawca_Raportu>
+</Raport>

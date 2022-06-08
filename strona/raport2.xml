@@ -1,0 +1,35 @@
+<Raport>
+	<Dane_Raportu>
+        Informacje dotyczące raportu
+		
+		<Data> 8.03.2022 </Data>
+		<Godzina> 16:00 </Godzina>
+	</Dane_Raportu>
+	<Temat_Raportu>
+    Założenia funkcjonalne i niefunkcjonalne
+</Temat_Raportu>
+	<Członkowie_Zespołu>
+    Jędrzej Szyszka
+    Przemysław Florkiewicz 
+    Konrad Porębski
+    Michał Chrzęszczyk
+    </Członkowie_Zespołu>
+	<Sprawozdanie_ze_spotkania>
+   Członkowie grupy omówili temat założeń funkcjonalnych i niefunkjonalnych, oraz ustatlili, jakie pojawią się w aplikacji.
+   Założenia funkcjonalne:
+   - wprowadzanie wady wzroku dla poszczególnego oka,
+   - wyświetlanie tablicy Snellena i wprowadzanie wartości "ostrość wzroku"
+   - dobieranie okularów na podstawie wyborów użytkownika,
+   - badanie widzenia barwnego poprzez wyświetlanie plansz i wybór odpowiedzi przez użytkownika.
+   - zbieranie danych i wyświetlanie ich w zakładce "podsumowanie"
+   Założenia niefunkcjonalne:
+   - przystosowana dla osób o każdej wadzie wzroku,
+   - estetyczny wygląd
+    </Sprawozdanie_ze_spotkania>
+	<Podsumowanie>
+	    Spotkanie przebiegło zgodnie z planem. Przez członków grupy zostały ustalone założenia, którymi będą się kierować podczas tworzenia programu oraz poszczególnych komponentów.
+    </Podsumowanie>
+	<Wykonawca_raportu>
+        Konrad Porębski
+    </Wykonawca_raportu>
+</Raport>
